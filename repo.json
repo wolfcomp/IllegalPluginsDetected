@@ -3,7 +3,7 @@
     "Author": "WildWolf",
     "Name": "Based Artisan Release Fix",
     "InternalName": "BasedArtisanReleaseFix",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.0.1",
     "Description": "They could just fix this issue them self but noo it's not a method they want to implement ref: https://github.com/PunishXIV/Artisan/pull/136.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/wolfcomp/BasedArtisanReleaseFix",
@@ -16,11 +16,11 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "A hilarious fix for Artisan.",
-    "Changelog": "Initial release",
+    "Changelog": "Fix binding flags",
     "AcceptsFeedback": true,
     "DownloadCount": 0,
-    "LastUpdate": 1743214956,
-    "DownloadLinkInstall": "https://github.com/wolfcomp/BasedArtisanReleaseFix/releases/download/v1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/wolfcomp/BasedArtisanReleaseFix/releases/download/v1.0.0/latest.zip"
+    "LastUpdate": 1743290414,
+    "DownloadLinkInstall": "https://github.com/wolfcomp/BasedArtisanReleaseFix/releases/download/v1.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/wolfcomp/BasedArtisanReleaseFix/releases/download/v1.0.1/latest.zip"
   }
 ]
