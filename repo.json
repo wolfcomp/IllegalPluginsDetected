@@ -22,5 +22,30 @@
     "LastUpdate": 1745588561,
     "DownloadLinkInstall": "https://github.com/wolfcomp/BasedArtisanReleaseFix/releases/download/v1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/wolfcomp/BasedArtisanReleaseFix/releases/download/v1.0.6/latest.zip"
+  },
+  {
+    "Author": "WildWolf",
+    "Name": "AllaganKillFeed",
+    "InternalName": "AllaganKillFeed",
+    "AssemblyVersion": "1.0.0",
+    "Description": "Ever wanted a kill feed ala Battlefield and Modern Warfare? Well now you can with AllaganKillFeed.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/wolfcomp/AllaganKillFeed",
+    "Tags": [
+      "pvp",
+      "killfeed"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Kill feed in frontline.",
+    "Changelog": "Initial release",
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": 1754012221,
+    "DownloadLinkInstall": "https://github.com/wolfcomp/AllaganKillFeed/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/wolfcomp/AllaganKillFeed/releases/download/v1.0.0/latest.zip"
   }
 ]
