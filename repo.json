@@ -43,7 +43,7 @@
     "Punchline": "Kill feed in frontline.",
     "Changelog": "Fix index lookup crash",
     "AcceptsFeedback": true,
-    "DownloadCount": 0,
+    "DownloadCount": 1,
     "LastUpdate": 1754067288,
     "DownloadLinkInstall": "https://github.com/wolfcomp/AllaganKillFeed/releases/download/v1.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/wolfcomp/AllaganKillFeed/releases/download/v1.0.3/latest.zip"
