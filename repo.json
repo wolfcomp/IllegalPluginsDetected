@@ -27,7 +27,7 @@
     "Author": "WildWolf",
     "Name": "AllaganKillFeed",
     "InternalName": "AllaganKillFeed",
-    "AssemblyVersion": "1.0.4",
+    "AssemblyVersion": "1.0.5",
     "Description": "Ever wanted a kill feed ala Battlefield and Modern Warfare? Well now you can with AllaganKillFeed.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/wolfcomp/AllaganKillFeed",
@@ -41,11 +41,11 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Kill feed in frontline.",
-    "Changelog": "Some cleanup before introducing config options",
+    "Changelog": "Fix null byte terminator issue",
     "AcceptsFeedback": true,
-    "DownloadCount": 1,
-    "LastUpdate": 1754180757,
-    "DownloadLinkInstall": "https://github.com/wolfcomp/AllaganKillFeed/releases/download/v1.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/wolfcomp/AllaganKillFeed/releases/download/v1.0.4/latest.zip"
+    "DownloadCount": 0,
+    "LastUpdate": 1754367488,
+    "DownloadLinkInstall": "https://github.com/wolfcomp/AllaganKillFeed/releases/download/v1.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/wolfcomp/AllaganKillFeed/releases/download/v1.0.5/latest.zip"
   }
 ]
