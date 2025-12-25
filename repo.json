@@ -41,9 +41,9 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Kill feed in frontline.",
-    "Changelog": "API 14 update",
+    "Changelog": "API 13 update",
     "AcceptsFeedback": true,
-    "DownloadCount": 0,
+    "DownloadCount": 3,
     "LastUpdate": 1766578192,
     "DownloadLinkInstall": "https://github.com/wolfcomp/AllaganKillFeed/releases/download/v1.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/wolfcomp/AllaganKillFeed/releases/download/v1.1.0/latest.zip"
