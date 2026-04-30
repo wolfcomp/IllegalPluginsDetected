@@ -1,7 +1,6 @@
 const user = "wolfcomp";
 const repos = [
-    "BasedArtisanReleaseFix",
-    "AllaganKillFeed"
+    "KillFeed"
 ];
 
 const clearText = (str) => {
