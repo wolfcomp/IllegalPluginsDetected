@@ -1,27 +1,26 @@
 [
   {
     "Author": "WildWolf",
-    "Name": "AllaganKillFeed",
-    "InternalName": "AllaganKillFeed",
-    "AssemblyVersion": "1.1.0",
-    "Description": "A funny plugin for kill feed in frontline.",
+    "Name": "KillFeed",
+    "InternalName": "KillFeed",
+    "AssemblyVersion": "1.2.0",
+    "Description": "Ever wanted a kill feed ala Battlefield and Modern Warfare? Well now you can with KillFeed.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/wolfcomp/AllaganKillFeed",
+    "RepoUrl": "https://github.com/wolfcomp/KillFeed",
     "Tags": [
-      "pvp",
       "killfeed"
     ],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Kill feed in frontline.",
-    "Changelog": "API 13 update",
+    "Punchline": "Kill feed in any content.",
+    "Changelog": "API 14 update",
     "AcceptsFeedback": true,
-    "DownloadCount": 10,
-    "LastUpdate": 1766578192,
-    "DownloadLinkInstall": "https://github.com/wolfcomp/KillFeed/releases/download/v1.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/wolfcomp/KillFeed/releases/download/v1.1.0/latest.zip"
+    "DownloadCount": 0,
+    "LastUpdate": 1777536820,
+    "DownloadLinkInstall": "https://github.com/wolfcomp/KillFeed/releases/download/v1.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/wolfcomp/KillFeed/releases/download/v1.2.0/latest.zip"
   }
 ]
