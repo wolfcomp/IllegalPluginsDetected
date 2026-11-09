@@ -1,23 +1,13 @@
 [
   {
-    "Author": "WildWolf",
+    "Author": "wolfcomp",
     "Name": "KillFeed",
     "InternalName": "KillFeed",
-    "AssemblyVersion": "1.2.3",
-    "Description": "Ever wanted a kill feed ala Battlefield and Modern Warfare? Well now you can with KillFeed.",
-    "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/wolfcomp/KillFeed",
-    "Tags": [
-      "killfeed"
-    ],
-    "DalamudApiLevel": 15,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Kill feed in any content.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "AssemblyVersion": "1.2.3",
     "Changelog": "API 14 update",
-    "AcceptsFeedback": true,
     "DownloadCount": 35,
     "LastUpdate": 1788464664,
     "DownloadLinkInstall": "https://github.com/wolfcomp/KillFeed/releases/download/v1.2.3/latest.zip",
